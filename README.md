@@ -1,6 +1,6 @@
 # Test Section
 
-### 1 OnComponentHit Event in 4.12 ###
+### 1 New.Section.With.Dots ###
 
 + Hello OnComponentHit Event in 4.12
 + World OnComponentHit Event in 4.12
