@@ -12,7 +12,7 @@
 + World
 + Added to description
 
-### 3 More testing ###
+### 3 More Testing ###
 
 + Hello
 + World
