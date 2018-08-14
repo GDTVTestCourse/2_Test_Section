@@ -2,9 +2,9 @@
 
 ### 1 OnComponentHit Event in 4.12 ###
 
-+ Hello Overview
-+ World Overview
-+ Added to description Overview
++ Hello OnComponentHit Event in 4.12
++ World OnComponentHit Event in 4.12
++ Added to description OnComponentHit Event in 4.12
 
 ### 2 This is a test ###
 
