@@ -20,9 +20,9 @@
 
 ### 4 Forget about being a test ###
 
-+ Hello 4
-+ World 4
-+ Added to description 4
++ Hell
++ World
++ Added to description
 
 ### 5 never test again ###
 
